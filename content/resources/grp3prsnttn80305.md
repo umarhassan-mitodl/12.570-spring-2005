@@ -4,6 +4,8 @@ description: Slide presentation on the effect of water on the 410-km discontinui
 file: /courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/3995d7b7c2d189cf6cfe2f16afb6140a_grp3prsnttn80305.pdf
 file_size: 195633
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Illustration of mantle convection.
 file: /courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/b011598ef3b365637ee1e1bd7a086ab1_chp_mantleconvection.gif
 file_size: 10258
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

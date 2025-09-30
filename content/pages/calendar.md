@@ -2,6 +2,8 @@
 content_type: page
 description: This section lists the lecture topics covered in the course along with
   the key dates and the lecturer for each lecture.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
